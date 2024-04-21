@@ -1,0 +1,5 @@
+class: it is a blue print of object it consits of Attributes and methods.
+object: it is instance of a class, Instance is a copy of the class with actual values
+
+Attribute: The things that object basically have.
+Method: methods are things that object does
